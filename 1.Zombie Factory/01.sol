@@ -1,4 +1,4 @@
-//Declara version de solidity y agrega un contract vacio
+// SPDX-License-Identifier: MIT
 pragma solidity 0.8.10;
 
 contract ZombieFactory {
